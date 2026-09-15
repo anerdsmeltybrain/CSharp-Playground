@@ -1,3 +1,6 @@
 testing
-nesting
+I'm replacing this line
 resting
+adding a line
+adding another line
+adding a third line
