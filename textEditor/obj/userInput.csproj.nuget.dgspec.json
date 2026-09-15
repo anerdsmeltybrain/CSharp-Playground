@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/anerdsmeltybrain/crafts/prog/langs/csharp/learning/userInput/userInput.csproj": {}
+    "/home/anerdsmeltybrain/crafts/prog/langs/csharp/CSharp-Playground/textEditor/userInput.csproj": {}
   },
   "projects": {
-    "/home/anerdsmeltybrain/crafts/prog/langs/csharp/learning/userInput/userInput.csproj": {
+    "/home/anerdsmeltybrain/crafts/prog/langs/csharp/CSharp-Playground/textEditor/userInput.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/anerdsmeltybrain/crafts/prog/langs/csharp/learning/userInput/userInput.csproj",
+        "projectUniqueName": "/home/anerdsmeltybrain/crafts/prog/langs/csharp/CSharp-Playground/textEditor/userInput.csproj",
         "projectName": "userInput",
-        "projectPath": "/home/anerdsmeltybrain/crafts/prog/langs/csharp/learning/userInput/userInput.csproj",
+        "projectPath": "/home/anerdsmeltybrain/crafts/prog/langs/csharp/CSharp-Playground/textEditor/userInput.csproj",
         "packagesPath": "/home/anerdsmeltybrain/.nuget/packages/",
-        "outputPath": "/home/anerdsmeltybrain/crafts/prog/langs/csharp/learning/userInput/obj/",
+        "outputPath": "/home/anerdsmeltybrain/crafts/prog/langs/csharp/CSharp-Playground/textEditor/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/anerdsmeltybrain/.nuget/NuGet/NuGet.Config"
